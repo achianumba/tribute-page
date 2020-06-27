@@ -129,6 +129,13 @@ hr {
  z-index: 10;
 }
 
+#image-wrapper {
+  width: 100%;
+  height: 0;
+  padding-bottom: 133.3965844402277%;
+  position: relative;
+}
+
 #image {
  display: block;
  max-width: 100%;
